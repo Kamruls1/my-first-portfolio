@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -31,3 +32,7 @@ section{
     background-color:aqua;
     color: white;
 }
+.sec1-bg{
+    background-image: url(png/top-banner.png);
+    background-repeat: no-repeat;
+    
